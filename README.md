@@ -25,3 +25,6 @@ preview_link_cmd="<leader>pl"
 ```
 
 
+# Lives
+This is was developed in live, which you can check here:
+- [Playlist](https://www.youtube.com/playlist?list=PLLqDGHpwYSOdfOQdoDlhR2OUI2Op32kag)
